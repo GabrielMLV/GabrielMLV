@@ -1,3 +1,19 @@
+<p align="center">
+   <img width="300px" src="https://github.com/GabrielMLV/GabrielMLV/blob/master/developer.gif" alt="Imagem developer" />
+</p> 
+    
+<center>
+  <table>
+    <tr>
+        <td>
+          <img width="455px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMLV&hide=html&layout=compact&theme=default_repocard" />            </td>
+        <td>
+          <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielMLV&theme=default_repocard&show_icons=true" />
+        </td>
+    </tr>   
+  </table>
+</center>
+
 ### Olá! Me chamo Gabriel 👋
 
 - 🎓 Graduado em Sistemas para Internet na Unipê
