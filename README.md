@@ -6,9 +6,9 @@
 ### Olá! Me chamo Gabriel 👋
 
 - 🎓 Graduado em Sistemas para Internet na Unipê
-- 💻 Atualmente trabalho com desenvolvimento Front-End
+- 💻 Atualmente trabalho com desenvolvimento web e mobile
 - 📚 Estudando Angular
-- 👯 Procurando colaborar em projetos que envolvam Angular
+- 👯 Procurando colaborar em projetos que envolvam Angular e Spring
 - 😄 Pronomes: Ele/Eles
 
 ### Redes sociais 📱
