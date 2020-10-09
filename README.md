@@ -7,7 +7,7 @@
 
 - 🎓 Graduado em Sistemas para Internet na Unipê
 - 💻 Atualmente trabalho com desenvolvimento web e mobile
-- 📚 Estudando Angular
+- 📚 Estudando SpringBoot e Angular
 - 👯 Procurando colaborar em projetos que envolvam Angular e Spring
 - 😄 Pronomes: Ele/Eles
 
