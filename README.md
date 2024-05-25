@@ -8,8 +8,7 @@
 - 🎓 Graduado em Sistemas para Internet na Unipê
 - 💻 Atualmente trabalho com desenvolvimento Web
 - 📚 Estudando SpringBoot, Angular e Reactjs
-- 👯 Procurando colaborar em projetos que envolvam Angular, Spring e Reactjs
-- 😄 Pronomes: Ele/Eles
+- 👯 Procurando colaborar em projetos que envolvam Spring e Reactjs
 
 ### Redes sociais 📱
 [![Linkedin Badge](https://img.shields.io/badge/-GabrielMatheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-matheus-a54907144/)](https://www.linkedin.com/in/gabriel-matheus-a54907144/)
